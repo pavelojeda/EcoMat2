@@ -1,3 +1,5 @@
+title: Economía Matemática II [ECO 240]
+
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme
@@ -5,5 +7,3 @@ plugins:
 show_downloads: true
 google_analytics:
 
-title: Economía Matemática II [ECO 240]
-description: 
